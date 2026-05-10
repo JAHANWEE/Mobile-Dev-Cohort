@@ -2,6 +2,8 @@
 
 A small Expo + React Native starter app that demonstrates a sign-in/sign-up flow using `expo-router` and a tabbed home screen.
 
+https://github.com/user-attachments/assets/c4ca8e4e-0ba8-43cd-bfd9-fe9d17d104e3
+
 ## Overview
 
 This project is a mobile-focused Expo application built with TypeScript and `expo-router`.
